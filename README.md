@@ -1,6 +1,6 @@
 # Olá 👋🏽, Que bom que visitou meu perfil,
-Me chamo MARCELO HENRIQUE, 
-ESTUDANTE DE PROGRAMAÇÃO (front-end)
+<div>Me chamo MARCELO HENRIQUE, 
+ESTUDANTE DE PROGRAMAÇÃO (front-end)</div>
 <div align="center">
   <a href="https://github.com/marcelohcb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelohcb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,6 +27,21 @@ ESTUDANTE DE PROGRAMAÇÃO (front-end)
   <a href = "mailto:marcelohcb@msn.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-henrique-62b262221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
+  <script>
+
+        function typewriter(elemento){
+            const textoArray = elemento.innerHTML.split('');
+            elemento.innerHTML = '';
+            textoArray.forEach((letra,i) => {
+                setTimeout(() => elemento.innerHTML += letra, 75* i);
+
+                
+                
+            });
+        }
+const titulo = document.querySelector('div')('h1');
+typewriter(titulo);
+
+    </script>
 
 
