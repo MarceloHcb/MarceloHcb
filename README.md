@@ -1,6 +1,6 @@
 # Olá 👋🏽, Que bom que visitou meu perfil,
 Me chamo MARCELO HENRIQUE, 
-ESTUDANTE DE PROGRAMAÇÃO (front-end)
+ESTUDANTE DE PROGRAMAÇÃO
 <div align="center">
   <a href="https://github.com/marcelohcb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelohcb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
