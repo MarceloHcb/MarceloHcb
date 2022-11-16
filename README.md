@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img width="30px" height="30px"src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, Que bom que visitou meu perfil,</h1>
 <h2 align="center">Me chamo MARCELO HENRIQUE, </h2>
-<h3 align="center">DESENVOLVEDOR FRONT-END</h3>
+<h3 align="center">FRONT-END DEVELOPER</h3>
 
 <div align="center">
   <a href="https://github.com/marcelohcb">
