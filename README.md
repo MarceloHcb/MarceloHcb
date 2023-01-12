@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+MARCELO+HENRIQUE;+WELCOME+TO+MY+GITHUB+:%29)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&vCenter=true&width=435&lines=HI%2C+MY+NAME+IS+MARCELO+HENRIQUE;WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelohcb&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="marcelo stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohcb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-![Contribution](https://activity-graph.herokuapp.com/graph?username=carloshtbraga&theme=gotham&hide_border=true&area=true&color=00bfbf)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-  [https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif)
+
+
 
 <h1 align="center">Olá <img width="30px" height="30px"src="
 
