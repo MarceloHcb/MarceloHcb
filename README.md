@@ -1,32 +1,34 @@
-<h1 align="center">Olá <img width="30px" height="30px"src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, Que bom que visitou meu perfil,</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+MARCELO+HENRIQUE;+WELCOME+TO+MY+GITHUB+:%29)](https://git.io/typing-svg)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelohcb&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="marcelo stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohcb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=carloshtbraga&theme=gotham&hide_border=true&area=true&color=00bfbf)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  [https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif)
+
+<h1 align="center">Olá <img width="30px" height="30px"src="
+
+" >, Que bom que visitou meu perfil,</h1>
 <h2 align="center">Me chamo MARCELO HENRIQUE, </h2>
 <h3 align="center">FRONT-END DEVELOPER</h3>
-
-<div align="center">
-  <a href="https://github.com/marcelohcb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelohcb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelohcb&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>	  
-  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="83px"/>
- 
+<br><p align="center"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelohcb}/count.svg" /></p>
+<br></div>
   <img align="right" alt="image-gif-perfil"  height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/a1/e6/56/a1e656e182df7fdb585edb41726b5744.gif">
+<br><br><br>
+  <div style = text-align: center, margin-left: 10px>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
+<img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+<img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'>
+<img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+<img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
+  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   
+<div>
   
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCRctFO9LaR7ws0-neZBCcsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mhcbdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-henrique-62b262221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
