@@ -26,6 +26,6 @@
   
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-  <h2>Email: marcelohcb@msn.com<h2>
+  <h2>E-mail: marcelohcb@msn.com<h2>
     <h2>Linkedin: https://www.linkedin.com/in/marcelohcb/ </h2>
   
