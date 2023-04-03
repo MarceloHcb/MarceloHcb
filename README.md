@@ -22,8 +22,7 @@
   <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
-  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
-  <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'>
+  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> 
   <img src='https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white'>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src='https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white'>
@@ -40,6 +39,7 @@
    <img src='https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white'>
    <img src='https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white'>
    <img src='https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white'>
+   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'>
   <img src='https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white'>
   <img src='https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white'>
   <img src='https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white'>
