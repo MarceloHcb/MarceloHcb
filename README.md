@@ -25,7 +25,8 @@
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-  <h2>E-mail: marcelohcb@msn.com<h2>
-    <h2>Linkedin: https://www.linkedin.com/in/marcelohcb/ </h2>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>  
+  <a href="https://www.linkedin.com/in/marcelohcb/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+      <a href="https://www.youtube.com/watch?v=mb5-8EaOF_k"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
+    
   
