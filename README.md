@@ -10,7 +10,7 @@
 <br><p align="center"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelohcb}/count.svg" /></p>
 <br></div>
-  <img align="right" alt="image-gif-perfil"  height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/a1/e6/56/a1e656e182df7fdb585edb41726b5744.gif">
+  <img align="right" alt="image-gif-perfil"  height="200" style="border-radius:100px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <br><br><br>
   <div style = text-align: center, margin-left: 10px>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
