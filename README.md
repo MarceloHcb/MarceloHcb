@@ -13,7 +13,7 @@
   <img align="right" alt="image-gif-perfil"  height="200" style="border-radius:100px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <br>
   <div style = text-align: center, margin-left: 10px>
-  <h2>Skills:</h2>
+  <h2>Skills and Tools:</h2>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
