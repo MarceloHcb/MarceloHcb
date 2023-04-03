@@ -10,9 +10,10 @@
 <br><p align="center"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelohcb}/count.svg" /></p>
 <br></div>
-  <img align="center" alt="image-gif-perfil"  height="200" style="border-radius:100px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+  <img align="right" alt="image-gif-perfil"  height="200" style="border-radius:100px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <br>
   <div style = text-align: center, margin-left: 10px>
+  <h2>Skills:</h2>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
