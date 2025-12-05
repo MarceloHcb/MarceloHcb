@@ -8,13 +8,6 @@
 <h2 align="center"> MARCELO HENRIQUE,  </h2> 
 <h3 align="center">DEVELOPER</h3>
 
-
-## GitHub Stats
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloHcb&show_icons=true&count_private=true&theme=dracula" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloHcb&layout=compact&theme=dracula&hide=css,html" height="165">
-</a>
- 
 <br>
   <div style = text-align: center, margin-left: 10px>
   <h2>Skills:</h2>
@@ -65,7 +58,7 @@
    
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>  
-  <a href="https://www.linkedin.com/in/mclohcb/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/mclohcb/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
     
     
   
